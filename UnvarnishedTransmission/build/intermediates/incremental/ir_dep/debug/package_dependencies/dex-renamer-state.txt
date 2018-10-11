@@ -1,0 +1,4 @@
+#Tue Oct 09 20:04:41 CST 2018
+base.0=D\:\\yichunPowerStationFiles\\blueToothTest\\UnvarnishedTransmission\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
